@@ -42,17 +42,18 @@ cc -> merupakan negara asal peserta, adapun aturannya:
 - Jika banyaknya kata pada negara tersebut lebih dari 1 maka ambil singkatan dari negara tersebut dalam lowercase
 - Namun, jika banyaknya kata hanya 1 maka ambil 3 huruf terdepan dari negara tersebut dalam lowercase
 Contoh:
-  Nama depan: Citra
-  Nama belakang: Nurdiyanti
-  Institusi: UD Prakasa Mandasari
-  Negara: Georgia
-  Maka,Email nya: citranurdiyanti@upm.geo
-  -----------------------------------
-  Nama depan: Aris
-  Nama belakang: Setiawan
-  Institusi: Universitas Diponegoro
-  Negara: Korea Utara
-  Maka, Email nya: arissetiawan@ud.ac.ku
+Nama depan: Citra
+Nama belakang: Nurdiyanti
+Institusi: UD Prakasa Mandasari
+Negara: Georgia
+Maka,Email nya: citranurdiyanti@upm.geo
+
+
+Nama depan: Aris
+Nama belakang: Setiawan
+Institusi: Universitas Diponegoro
+Negara: Korea Utara
+Maka, Email nya: arissetiawan@ud.ac.ku
 
   # tanggal lahir
 format YYYY-MM-DD dengan keterangan:
